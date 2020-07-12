@@ -1,0 +1,15 @@
+* Create a GitHub repo from local:
+
+Create a repo on Github
+git init
+git add .
+git status
+git commit -m 'your message'
+
+git remote add origin <github url>
+git push -f origin master
+
+
+I wish all of you the best! :)
+
+Hossam Amer
