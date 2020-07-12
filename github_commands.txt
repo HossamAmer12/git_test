@@ -8,6 +8,8 @@ git commit -m 'your message'
 
 git remote add origin <github url>
 git push -f origin master
+# or another solution for the previous command (do the following command after remote add, and then push)
+git pull origin master --allow-unrelated-histories
 
 
 * Push and pull a repo:
