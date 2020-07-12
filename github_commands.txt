@@ -10,6 +10,10 @@ git remote add origin <github url>
 git push -f origin master
 
 
+* Push and pull a repo:
+git push -u origin master
+git pull https://github.com/HossamAmer12/git_test.git master
+
 I wish all of you the best! :)
 
 Hossam Amer
