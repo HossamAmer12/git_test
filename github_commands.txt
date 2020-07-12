@@ -14,6 +14,11 @@ git push -f origin master
 git push -u origin master
 git pull https://github.com/HossamAmer12/git_test.git master
 
+* add a specific dir:
+git add <specific_dir>
+git commit -m <your message>
+git push
+
 I wish all of you the best! :)
 
 Hossam Amer
